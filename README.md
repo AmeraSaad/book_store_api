@@ -16,11 +16,11 @@ USER_EMAIL= your email service for sending email
 USER_PASS= your email service password
 
 ## Install Dependencies
-```
+
 npm install
-```
+
 
 ## Run
-```
+
 npm start
-```
+
