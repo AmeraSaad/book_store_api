@@ -1,5 +1,21 @@
 # book_store_api
-Book Store API
+# Features
+Admin authentication and authorization
+Books management (Create, Read, Update, Delete)
+Authors management (Create, Read, Update, Delete)
+Middleware for protected routes
+Hashing and salting passwords
+
+
+# Technologies Used
+Node.js
+Express.js
+MongoDB
+Mongoose
+JSON Web Tokens (JWT)
+Bcrypt.js
+Skills
+
 
 # Usage
 - Install Mongo DB on your local machine or use Mongo DB Cloud -> [Go To MongoDB Website](https://www.mongodb.com)
