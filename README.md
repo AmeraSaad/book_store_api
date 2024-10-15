@@ -1,10 +1,10 @@
 # book_store_api
 # Features
-Admin authentication and authorization
-Books management (Create, Read, Update, Delete)
-Authors management (Create, Read, Update, Delete)
-Middleware for protected routes
-Hashing and salting passwords
+- Admin authentication and authorization
+- Books management (Create, Read, Update, Delete)
+- Authors management (Create, Read, Update, Delete)
+- Middleware for protected routes
+- Hashing and salting passwords
 
 
 # Technologies Used
